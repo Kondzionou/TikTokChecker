@@ -1,11 +1,9 @@
 # TikTokChecker
-TikTok Name Checker
-###### Author: 
-###### Naoku aka. Kondzio
+TikTok Name Checker by Naoku
 ###### Discord: Naoku#1036
 
 
-###### Requirements
+###### Requirements - Open requirements.bat
 >random - pip install random2
 
 >requests - pip install requests
@@ -15,7 +13,6 @@ TikTok Name Checker
 >ctypes
 
 >os
-
 
 
 ###### How to run
